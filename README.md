@@ -18,6 +18,8 @@ Tengo 19 años y estudio Ingeniería de Sistemas. Me gusta configurar mi entorno
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/sandra-aliaga/sandra-aliaga/output/github-contribution-grid-snake.svg)
+
 ## Stack Tecnológico
 
 <div align="center">
