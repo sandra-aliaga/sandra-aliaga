@@ -74,16 +74,6 @@ Tengo 19 años y estudio Ingeniería de Sistemas. Me gusta configurar mi entorno
 
 </div>
 
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandra-aliaga&repo=beatbugging&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5)](https://github.com/sandra-aliaga/beatbugging)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandra-aliaga&repo=shdraw&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5)](https://github.com/sandra-aliaga/shdraw)
-
-</div>
-
 ## Frase del Día
 
 <div align="center">
@@ -105,8 +95,6 @@ Tengo 19 años y estudio Ingeniería de Sistemas. Me gusta configurar mi entorno
 ---
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/sandra-aliaga/count.svg)
 
 **"Talk is cheap. Show me the code."** — Linus Torvalds
 
