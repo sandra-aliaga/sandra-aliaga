@@ -4,6 +4,8 @@
 
 ### Desarrolladora Full Stack | Software Libre
 
+Tengo 19 años y estudio Ingeniería de Sistemas. Me gusta configurar mi entorno de trabajo en Arch Linux y participar en proyectos junto a otros entusiastas de la programacion en la IEEE y ACM. Programo principalmente en Python y Typescript, enfocándome en mejorar mis habilidades de lógica y probando cosas nuevas como Godot y Dart. **Considero que tengo mucho que aprender, cada proyecto que hago me acerca a mi meta: que mi código sea interesante y util para el mundo.**
+
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DCFFF&center=true&vCenter=true&width=500&lines=if+fun(idea)+%3A+code(it);Desarrolladora+Full+Stack>)](https://git.io/typing-svg)
 
 </div>
@@ -22,6 +24,7 @@
 
 **Lenguajes**
 
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,26 +61,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandra-aliaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=bb9af7&text_color=c0caf5)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandra-aliaga&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7dcfff&ring=bb9af7&fire=7dcfff&currStreakLabel=bb9af7&sideLabels=7dcfff&currStreakNum=c0caf5&sideNums=c0caf5&dates=c0caf5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-aliaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&text_color=c0caf5)
-
-</div>
-
-## 🏆 Trofeos
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sandra-aliaga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
