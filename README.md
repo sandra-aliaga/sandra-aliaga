@@ -52,7 +52,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandra-aliaga&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&hide_title=true&include_all_commits=true&count_private=true" width="420">
+<img src="./profile/stats.svg" width="420">
 
 <br><br>
 
