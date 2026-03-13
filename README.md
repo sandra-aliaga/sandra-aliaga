@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:45475a,100:cba6f7&height=220&section=header&text=sandra%20aliaga&fontSize=44&fontColor=cdd6f4&fontAlignY=34&desc=desarrolladora%20full%20stack%20%C2%B7%20software%20libre&descSize=14&descColor=a6adc8&descAlignY=55&animation=fadeIn&fontFamily=JetBrains%20Mono&descFontFamily=JetBrains%20Mono" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:45475a,100:cba6f7&height=200&section=header&text=s%20a%20n%20d%20r%20a%20%20%20a%20l%20i%20a%20g%20a&fontSize=40&fontColor=cdd6f4&fontAlignY=40&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%">
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=desarrolladora+full+stack+%C2%B7+software+libre;if+fun(idea)+%3A+code(it))](https://git.io/typing-svg)
 
 <br>
 
@@ -50,7 +52,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandra-aliaga&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&hide_title=true" width="420">
+<img src="https://github-readme-stats.vercel.app/api?username=sandra-aliaga&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&hide_title=true&include_all_commits=true&count_private=true" width="420">
 
 <br><br>
 
