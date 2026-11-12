@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="560"
+  height="56"
+  viewBox="0 0 560 56"
+  fill="none"
+>
+  <title>~/about</title>
+  <rect
+    x="0.5"
+    y="0.5"
+    width="559"
+    height="55"
+    rx="6"
+    fill="#232330"
+    stroke="#454052"
+  />
+  <circle cx="22" cy="28" r="4" fill="#D6C3F4" />
+  <text
+    x="42"
+    y="34"
+    font-family="'DejaVu Sans Mono', monospace"
+    font-size="18"
+    fill="#D6C3F4"
+  >
+    ~/about
+  </text>
+  <path
+    d="M505 28H517M533 22L545 34M545 22L533 34"
+    stroke="#ABA5BF"
+    stroke-width="1.5"
+  />
+</svg>
