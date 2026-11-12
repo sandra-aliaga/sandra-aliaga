@@ -11,7 +11,7 @@
   <desc id="description">
     A retro terminal introducing Sandra, a Systems Engineering student who
     builds software and explores quantum computing. The command types itself and
-    a cursor blinks.
+    a cursor blinks beside a slowly rotating lavender atom.
   </desc>
   <defs>
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
@@ -34,6 +34,14 @@
     }
     .blink {
       animation: blink 1s step-end infinite;
+    }
+    .atom-spin {
+      animation: orbit 40s linear infinite;
+    }
+    @keyframes orbit {
+      to {
+        transform: rotate(360deg);
+      }
     }
     @keyframes typing {
       0%,
@@ -74,7 +82,8 @@
     @media (prefers-reduced-motion: reduce) {
       .typing,
       .cursor,
-      .blink {
+      .blink,
+      .atom-spin {
         animation: none;
       }
       .cursor {
@@ -151,6 +160,29 @@
         </text>
         <text x="1157" y="373" text-anchor="end" fill="#D6C3F4">:wq</text>
       </g>
+    </g>
+    <g transform="translate(975 192)">
+      <circle r="91" stroke="#454052" stroke-dasharray="3 9" />
+      <g class="atom-spin">
+        <ellipse
+          rx="139"
+          ry="45"
+          transform="rotate(-35)"
+          stroke="#D6C3F4"
+          stroke-width="1.5"
+        />
+        <ellipse
+          rx="139"
+          ry="45"
+          transform="rotate(35)"
+          stroke="#8FAED1"
+          stroke-width="1.5"
+        />
+        <circle cx="107" cy="-69" r="6" fill="#E5C890" />
+        <circle cx="-107" cy="-69" r="5" fill="#A6CFA1" />
+      </g>
+      <circle r="12" fill="#D6C3F4" />
+      <path d="M-6-113H6M0-119V-107" stroke="#E5C890" stroke-width="1.5" />
     </g>
     <rect
       y="46"
