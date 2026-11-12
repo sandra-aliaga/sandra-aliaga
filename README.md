@@ -41,7 +41,7 @@
       <br><br>
       <samp>
         &gt; ACM UNSA<br><br>
-        &gt; IEEE WIE UNSA<br><br>
+        &gt; QuantumHub Peru<br><br>
         &gt; IEEE CS PUCP<br>
         &nbsp; Technical Committee<br><br>
         <i>Learning is better with company.</i>
