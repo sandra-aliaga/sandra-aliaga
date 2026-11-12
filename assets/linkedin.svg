@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="112"
+  height="32"
+  viewBox="0 0 112 32"
+  fill="none"
+>
+  <title>linkedin</title>
+  <rect
+    x="0.5"
+    y="0.5"
+    width="111"
+    height="31"
+    rx="5"
+    fill="#232330"
+    stroke="#454052"
+  />
+  <rect x="13" y="9" width="14" height="14" rx="1" fill="#D6C3F4" />
+  <circle cx="16.5" cy="12.5" r="1" fill="#232330" />
+  <path
+    d="M16.5 15V20M20 20V15M20 17C20 14 24 14 24 17V20"
+    stroke="#232330"
+    stroke-width="1.5"
+  />
+  <text
+    x="37"
+    y="20"
+    font-family="'DejaVu Sans Mono', monospace"
+    font-size="12"
+    fill="#EEE9F5"
+  >
+    linkedin
+  </text>
+</svg>

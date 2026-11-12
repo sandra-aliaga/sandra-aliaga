@@ -90,10 +90,10 @@
 <p align="center">
   <br>
   <samp>
-    <a href="https://www.linkedin.com/in/sandra-gabriela-aliaga-chai%C3%B1a-03663a324/">[ linkedin ]</a>
+    <a href="https://www.linkedin.com/in/sandra-gabriela-aliaga-chai%C3%B1a-03663a324/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="112" height="32"></a>
     &nbsp;&nbsp;
-    <a href="mailto:sandra.aliaga.ch@gmail.com">[ email ]</a>
+    <a href="mailto:sandra.aliaga.ch@gmail.com"><img src="./assets/email.svg" alt="Email" width="112" height="32"></a>
     <br><br>
-    [ end of file ] curiosity keeps running.
+    <img src="./assets/curiosity.svg" alt="[ end of file ] curiosity keeps running." width="540">
   </samp>
 </p>
